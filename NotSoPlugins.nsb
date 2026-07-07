@@ -1,0 +1,4 @@
+{eval:{text:https://raw.githubusercontent.com/chuanvines/NotSoPlugins/refs/heads/main/misc/timetook.nsb}}
+{eval:{text:https://raw.githubusercontent.com/chuanvines/NotSoPlugins/refs/heads/main/misc/filename.nsb}}
+
+{embedjson:{"title":"NotSoPlugins V1.0","description":"???","color":3447003,"fields":[{"name":"Updates","value":"no updates yet.","inline":true}],"footer":{"text":"by chuan"}}}
