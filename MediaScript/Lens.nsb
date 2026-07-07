@@ -1,4 +1,4 @@
 {replace:lens {get:filename}|detunnel {get:filename}
 haah {get:filename}
 tunnel {get:filename}
-}|{get:code}}
+}|{ignore:{get:code}}}
