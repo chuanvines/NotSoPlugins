@@ -1,2 +1,2 @@
-{sh:load {iv}
-echo $FILE_1}
+{set:filename|{sh:load {iv}
+echo $FILE_1}}
